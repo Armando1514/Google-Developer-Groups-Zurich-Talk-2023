@@ -1,5 +1,9 @@
 # Google Developer Groups Zurich Talk 2023
 
+**Slides**: You can look in the repo for slides.pdf
+
+**Pre-recorded video for who missed the talk**: https://www.youtube.com/watch?v=AxQnLxw7tvM
+
 **Title Talk**: Beyond the Surface: Why You Need to Understand Database Structures for Optimal Performance
 
 **Abstract Talk**:Are you tired of sluggish database performance and the limitations of sharding? Do you want to take your production database systems to the  next level? Look no further! In this talk, I will explore some  game-changing concepts that can improve your database's performance  without having to resort to sharding.
@@ -13,6 +17,8 @@ So if  you're ready to take your production database systems to the next level, 
 **Event Name**: Google Developer Group - Zürich 2023
 
 **Location**: Google Office - 24 Europaallee Zürich, Zürich, 8004
+
+Link to the event: https://gdg.community.dev/events/details/google-gdg-cloud-zurich-presents-gdg-cloud-zurich-meetup-6-april/
 
 **Speaker**: Armando Ferrara
 
